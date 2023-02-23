@@ -5,7 +5,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=maicond02&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 </div>
   
-  Tecnologias que eu uso no meu dia
+  Tecnologias que eu utilizo no meu dia a dia:
 
 <div style="display: inline_block">
   <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -18,7 +18,7 @@
   
 </div><br/>
   
-  Meu Linkedin
+  Meu Linkedin:
   
 <div>
   <a href="https://www.linkedin.com/in/maicon-alves-03700419b/">
