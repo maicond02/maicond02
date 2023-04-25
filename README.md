@@ -33,6 +33,6 @@ Dedico meu tempo livre para estudos voltados para área de tecnologia, para aper
   
 <div>
   <a href="https://github.com/maicond02">
-  <img height="180em" src="https://github-readme-stats-mu-three-83.vercel.app/api/top-langs/?username=maicond02&layout=compact&langs_count=7&theme=dark&cache_seconds=1800"/>
-  <img height="180em" src="https://github-readme-stats-mu-three-83.vercel.app/api?username=maicond02&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-maicond02.vercel.app/api/top-langs/?username=maicond02&layout=compact&langs_count=7&theme=dark&cache_seconds=1800"/>
+  <img height="180em" src="https://github-readme-stats-maicond02.vercel.app/api?username=maicond02&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 </div>
