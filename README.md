@@ -7,7 +7,7 @@ Dedico meu tempo livre para estudos voltados para área de tecnologia, para aper
   
 ## Minhas tecnologias
 
-<img src="https://skillicons.dev/icons?i=androidstudio,aws,azure,bootstrap,css,docker,git,githu,html,js,linux,mongodb,mysql,nestjs,nextjs,nuxtjs,pinia,py,react,tailwind,vue&theme=dark" />
+<img src="https://skillicons.dev/icons?i=androidstudio,aws,azure,bootstrap,css,docker,git,github,html,js,linux,mongodb,mysql,nestjs,nextjs,nuxtjs,pinia,py,react,tailwind,vue&theme=dark" />
   
 </div><br/>
   
