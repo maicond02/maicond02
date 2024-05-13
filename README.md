@@ -1,19 +1,17 @@
-<h2> Software Developer </h2>
+## Software Developer
 
 <p> Cursando Engenharia de Computação com bolsa em iniciação científica, atualmente estagiário em Desenvolvimento Fullstack na empresa 3M. Utilizando no meu dia a dia Javascript, Vuejs e Nodejs, mas também contendo experiência em desenvolvimento em React e React Native.
 Dedico meu tempo livre para estudos voltados para área de tecnologia, para aperfeiçoar meus conhecimentos, também estudo alguns idiomas, como o espanhol que utilizo no meu trabalho atual, e o inglês. Procuro sempre agregar valor para diferentes atividades na minha área de atuação. </p>
-  
-<h2>Tecnologias:</h2>
 
 <div >
   
-## My Stack
+## Minhas tecnologias
 
 <img src="https://skillicons.dev/icons?i=androidstudio,aws,azure,bootstrap,css,docker,git,githu,html,js,linux,mongodb,mysql,nestjs,nextjs,nuxtjs,pinia,py,react,tailwind,vue&theme=dark" />
   
 </div><br/>
   
-  <h2>Meu contato:</h2>
+## Meu contato
   
 <div>
   <a href="https://www.linkedin.com/in/maicon-alves-03700419b/">
@@ -21,7 +19,7 @@ Dedico meu tempo livre para estudos voltados para área de tecnologia, para aper
    </a>
 <div/>
   
-<h2>Minhas estatísticas:</h2>
+## Minhas estatísticas
   
 <div>
   <a href="https://github.com/maicond02">
