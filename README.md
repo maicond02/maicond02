@@ -1,28 +1,30 @@
-## Software Developer
+# Desenvolvedor Fullstack | Java | Spring Boot | React | React Native | Python | SQL | Scrum
 
-<p> Cursando Engenharia de Computação com bolsa em iniciação científica, atualmente estagiário em Desenvolvimento Fullstack na empresa 3M. Utilizando no meu dia a dia Javascript, Vuejs e Nodejs, mas também contendo experiência em desenvolvimento em React e React Native.
-Dedico meu tempo livre para estudos voltados para área de tecnologia, para aperfeiçoar meus conhecimentos, também estudo alguns idiomas, como o espanhol que utilizo no meu trabalho atual, e o inglês. Procuro sempre agregar valor para diferentes atividades na minha área de atuação. </p>
+## Sobre mim
 
-<div >
-  
-## Minhas tecnologias
+Sou estudante de Engenharia de Computação, atualmente bolsista de iniciação científica e estagiário em Desenvolvimento Fullstack na 3M. No meu dia a dia, trabalho principalmente com **JavaScript**, **Vue.js** e **Node.js**, mas também possuo experiência em **Java**, **Spring Boot**, **React**, **React Native**, **Python**, **SQL** e metodologias ágeis como **Scrum**.
 
-<img src="https://skillicons.dev/icons?i=androidstudio,aws,azure,bootstrap,css,docker,git,github,html,js,linux,mongodb,mysql,nestjs,nextjs,nuxtjs,pinia,py,react,tailwind,vue&theme=dark" />
-  
-</div><br/>
-  
-## Meu contato
-  
-<div>
+Meu foco é o aperfeiçoamento contínuo, seja em tecnologias backend, frontend ou metodologias de desenvolvimento. Além disso, estudo idiomas como espanhol (que utilizo no trabalho) e inglês, visando ampliar minhas possibilidades de comunicação e colaboração em projetos globais. Acredito que cada projeto e desafio é uma oportunidade de crescimento, e busco sempre agregar valor onde atuo.
+
+## Minhas Tecnologias
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,js,nodejs,react,reactnative,py,mysql,git,github,html,css,bootstrap,tailwind,vue,nuxtjs,aws,azure,docker,linux,mongodb,nestjs,nextjs,pinia&theme=dark" />
+</div>
+
+## Contato
+
+<div align="center">
   <a href="https://www.linkedin.com/in/maicon-alves-03700419b/">
     <img align="center" alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-   </a>
-<div/>
-  
-## Minhas estatísticas
-  
-<div>
+  </a>
+</div>
+
+## Estatísticas do GitHub
+
+<div align="center">
   <a href="https://github.com/maicond02">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maicond02&layout=compact&langs_count=7&theme=dark&cache_seconds=1800"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=maicond02&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maicond02&layout=compact&langs_count=7&theme=dark&cache_seconds=1800"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=maicond02&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  </a>
 </div>
