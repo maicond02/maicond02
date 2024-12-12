@@ -9,7 +9,7 @@ Dedico meu tempo livre para aprofundar conhecimentos em tecnologia e aprimorar h
 ## Minhas Tecnologias
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,react,reactnative,py,sql,js,nodejs,git,github,html,css,bootstrap,tailwind,vue,nuxtjs,aws,azure,docker,linux,mongodb,nestjs,nextjs,pinia&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=java,spring,js,ts,react,nextjs,py,mysql,nodejs,git,github,html,css,bootstrap,tailwind,vue,nuxtjs,aws,azure,docker,linux,mongodb,nestjs,nextjs,pinia&theme=dark" />
 </div>
 
 ## Contato
